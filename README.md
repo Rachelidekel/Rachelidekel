@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Racheli Dekel</h1>
 <h3 align="center">A junior web developer</h3>
 
+## About Me
+
+For the last 21 years, I have been working as a budget auditor at Ichilov hospital, I loved being part of a large, important, and central institution.
+I was a team leader, guiding and prioritizing the work so that the important things were always done first, I improved our customer service, and I wrote new procedures for dealing with suppliers and customers while working I studied at the Open University and graduated with honors in management.
+
+I decided to convert to the world of programming and I finished successfully a bootcamp from Practicum100 and got my certificate of completion of the Web Development Professional Training Course. It was a long and difficult journey but I managed to finish it. 
+
+I am a junior programmer who pays attention to the small details, never stops learning, and loves to explore and discover.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachelidekel&label=Profile%20views&color=0e75b6&style=flat" alt="rachelidekel" /> </p>
 
 - My final project 1 [News-Explorer](https://github.com/Rachelidekel/news-explorer-frontend)
