@@ -16,7 +16,7 @@ I am a junior programmer who pays attention to the small details, never stops le
 
 - My final project 2 [react-around-api-full](https://github.com/Rachelidekel/react-around-api-full)
 
-- 📫 How to reach me **dudinka77@gmail.com**
+- 📫 How to reach me **rachelid77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
